@@ -8,4 +8,4 @@ pg_close($conexion);
 
 header('Location: index.php');
 exit;
-?>a
+?>
