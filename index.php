@@ -67,6 +67,7 @@
                 }
                 pg_close($conexion);
                 ?>
+                
             </tbody>
         </table>
     </div>
